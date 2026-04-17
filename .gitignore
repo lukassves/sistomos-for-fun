@@ -1,0 +1,17 @@
+# Large installers / archives
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+*.iso
+
+# Large media
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Optional local Webots files
+*.wbproj
+LD4/webots-R2025a_setup.exe
